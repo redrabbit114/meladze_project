@@ -37,3 +37,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 ![love](https://cdn.smehost.net/sonymusicru-ruprod/wp-content/uploads/2016/02/zayn-malik.jpg)
 ![mmmm](https://sun1-90.userapi.com/FB89ftXTVkk80noXuURWZfgIR6Z-RlApKoFEgw/2hqrnrYQkQ4.jpg)
+[lemmy](1994-2017_lemmy.txt)
