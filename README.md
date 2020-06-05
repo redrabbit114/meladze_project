@@ -55,25 +55,25 @@ Cлово “душа” находится рядом со словами: ра
 
 ![all](https://sun1-83.userapi.com/ZZDTbYnL79noZKJWIDadfzGKS4aiuLWRt-edWw/hSA3Kk8n7yc.jpg)
 ***За весь период***
-___
+
 ![94-95](https://sun1-22.userapi.com/hZl9XW5ldUjg1sCSIPknoEeb2p3pBNcD80nJ1g/BYHR1niF8qk.jpg)
 ***1994-1995***
-___
+
 ![97-98](https://sun1-22.userapi.com/-qxIpheWrIdwnUgYvbSTerXhsyVFXt70khRHTg/GlWOGHIP_Lk.jpg)
 ***1997-1998***
-___
+
 ![02-04](https://sun1-86.userapi.com/VOK8-tpT1Z5BXGRuqdChtNtVbS_XLqU3KLGUfw/ZOaWFenMjOg.jpg)
 ***2002-2004***
-___
+
 ![07-10](https://sun1-85.userapi.com/7wmOIgp1ZwhwVsUt72wsfphN_ttyYVBMVLug-A/iIzUnxEYpg8.jpg)
 ***2007-2010***
-___
+
 ![11-14](https://sun1-98.userapi.com/H9TXlW_PQFCmVYBy-m7parLpznpr8ZtzwuHo1A/upYtyetBZ58.jpg)
 ***2011-2014***
-___
+
 ![15-17](https://sun1-86.userapi.com/gPF-VDIp4VhciFx-VxP38t4Zfc2T00TN1iCsmA/KemBQoP5NEY.jpg)
 ***2015-2017***
-___
+
 Лексика, которую использует Меладзе в своих текстах, не совсем разнообразна. Как мы замечаем на примере облаков из ключевых слов, самым главным компонентом является: любовь. 
 Преобладающая лексика передает страдания, переживания и некий образ одиночества на фоне романтических скитаний.
 ### *Тренды*
