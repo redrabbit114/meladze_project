@@ -52,33 +52,34 @@ Cлово “душа” находится рядом со словами: ра
 Больше всего слов Меладзе написал с 1997 по 1998, спустя 4 года после начала его сольной карьеры. Этот период пришелся как раз на момент выпуска третьего диска “Самба белого мотылька”.
 Меньше всего слов было написано в 2007–2010. В это время он вместе с братом продюсировал проект “Фабрика звезд”. Это время также совпадает с периодом, в который показатель vocabulary density является наибольшим, то есть с периодом наименьшей продуктивности. 
 ### *Word Clouds*
-___
+
 ![all](https://sun1-83.userapi.com/ZZDTbYnL79noZKJWIDadfzGKS4aiuLWRt-edWw/hSA3Kk8n7yc.jpg)
 ***За весь период***
-===
+___
 ![94-95](https://sun1-22.userapi.com/hZl9XW5ldUjg1sCSIPknoEeb2p3pBNcD80nJ1g/BYHR1niF8qk.jpg)
 ***1994-1995***
-===
+___
 ![97-98](https://sun1-22.userapi.com/-qxIpheWrIdwnUgYvbSTerXhsyVFXt70khRHTg/GlWOGHIP_Lk.jpg)
 ***1997-1998***
-===
+___
 ![02-04](https://sun1-86.userapi.com/VOK8-tpT1Z5BXGRuqdChtNtVbS_XLqU3KLGUfw/ZOaWFenMjOg.jpg)
 ***2002-2004***
-===
+___
 ![07-10](https://sun1-85.userapi.com/7wmOIgp1ZwhwVsUt72wsfphN_ttyYVBMVLug-A/iIzUnxEYpg8.jpg)
 ***2007-2010***
-===
+___
 ![11-14](https://sun1-98.userapi.com/H9TXlW_PQFCmVYBy-m7parLpznpr8ZtzwuHo1A/upYtyetBZ58.jpg)
 ***2011-2014***
-===
+___
 ![15-17](https://sun1-86.userapi.com/gPF-VDIp4VhciFx-VxP38t4Zfc2T00TN1iCsmA/KemBQoP5NEY.jpg)
 ***2015-2017***
-===
+___
 Лексика, которую использует Меладзе в своих текстах, не совсем разнообразна. Как мы замечаем на примере облаков из ключевых слов, самым главным компонентом является: любовь. 
 Преобладающая лексика передает страдания, переживания и некий образ одиночества на фоне романтических скитаний.
 ### *Тренды*
 ![trends](https://sun1-23.userapi.com/60bVCvzwrvjNN9CU2C5V-dqDAXcnbwahRAVX6w/dyb-Z6CJOs8.jpg)
 Мы наблюдаем стабильность употребления слова “любовь” на протяжении всего творчества, в то время как “небо” имеет резкий скачок в период с 2007 по 2010 год, а слово “твой” используется часто в 2011-2014 годы. Это ещё раз доказывает, что важной составляющей творчества Меладзе является именно любовь, которая стабильна.
+
 ![sins](https://sun1-84.userapi.com/MacPxiIg9qmpUIGQzDuHSfCDA0UDzQhSO93yQg/Bp5WXf-OZy8.jpg)
 
 ## Вывод
